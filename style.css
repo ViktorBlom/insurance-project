@@ -35,10 +35,17 @@ h1, h2, h3, h4 {
     letter-spacing: -1px;
 }
 
-button, p, li {
+p, li {
 
     font-family: 'Noto Sans JP', sans-serif;
     color: var(--color-black-transparent-1);
+}
+
+button {
+
+    font-family: 'Noto Sans JP', sans-serif;
+    color: var(--color-black-transparent-2;)
+
 }
 
 a {
@@ -162,7 +169,7 @@ ul li span {
 
 }
 
-footer p{
+footer p {
 
 color: var(--color-black-transparent-2)
 
